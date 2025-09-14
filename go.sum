@@ -1,4 +1,4 @@
-github.com/spf13/cobra v1.6.1 h1:UfkAEMD6FJ3QWLZ5TiUHZmNsQGJv1rQ7ykjC7ke6kEY=
+github.com/spf13/cobra v1.6.1 h1:o94oiPyS4KD1mPy2fmcYYHHfCxLqYjJOhGsCHFZtEzA=
 github.com/spf13/cobra v1.6.1/go.mod h1:IOw/AERYS7UzyrGinqmz6HLUo219MORXGxhbaJUqzrY=
 k8s.io/api v0.28.1 h1:lqY6oyv+YxZQvXP8vG0TfGDiMTX8ebQ8KgVQ2U9PApI=
 k8s.io/api v0.28.1/go.mod h1:uBYwID+66wiL28Kn2tBjBYQdEU0Xk0z5qF8bIBqk/Dg=
