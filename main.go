@@ -1,6 +1,6 @@
 package main
 
-import "nsctl/cmd"
+import "namespace-cli/cmd"
 
 func main() {
 	cmd.Execute()
