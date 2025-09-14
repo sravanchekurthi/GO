@@ -11,7 +11,14 @@ RUN apk add --no-cache git
 # Copy go files
 COPY go.mod ./
 COPY go.sum ./
-RUN go mod download
+
+ENV GOPROXY=https://proxy.golang.org,direct
+
+RUN ls -la
+RUN cat go.mod
+RUN cat go.sum
+
+RUN go mod download -x
 
 COPY . ./
 
