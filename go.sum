@@ -5,4 +5,4 @@ k8s.io/api v0.28.1/go.mod h1:el/5WKlzT79ldJHr5mJUMwvLn/ytQ6ff46Qm9k5Dx68=
 k8s.io/apimachinery v0.28.1 h1:bZ/tKM+3nk9HkODtEpoFSsU9jpKglcqDF8tZwBq9Yxg=
 k8s.io/apimachinery v0.28.1/go.mod h1:X0xh/chESs2hP9koe+SdIAcXWcQ+RM5hy0ZynB+yEvw=
 k8s.io/client-go v0.28.1 h1:x3DUR8Ig46hvx0YqGRqYnAAZfO7a5Aq6W+qkHsMeZLk=
-k8s.io/client-go v0.28.1/go.mod h1:qrCqDEdZg8X1wMTz+Pu3rm5jy6y3aCyVbhpxmyJo/5c=
+k8s.io/client-go v0.28.1/go.mod h1:pEZA3FqOsVkCc07pFVzK076R+P/eXqsgx5zuuRWukNE=
