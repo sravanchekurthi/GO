@@ -1,6 +1,6 @@
 package main
 
-import "namespace-cli/cmd"
+import "GO/cmd"
 
 func main() {
 	cmd.Execute()

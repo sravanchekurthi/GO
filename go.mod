@@ -1,4 +1,4 @@
-module GO
+module namespace-cli
 
 go 1.20
 
