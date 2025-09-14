@@ -21,7 +21,7 @@ jobs:
 
     - name: Build Docker Image
       run: |
-        IMAGE=your-dockerhub-username/nsctl
+        IMAGE=schekurthi/nsctl
         TAG=latest
 
         # Optional: If pushing from a tag like v1.0.0, use that tag too
