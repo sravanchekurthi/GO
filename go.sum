@@ -1,0 +1,8 @@
+github.com/spf13/cobra v1.6.1 h1:UfkAEMD6FJ3QWLZ5TiUHZmNsQGJv1rQ7ykjC7ke6kEY=
+github.com/spf13/cobra v1.6.1/go.mod h1:U5YoKduQPL3HkAr5qBkJqqlUUsnlqlcTQEuTlUp7QpE=
+k8s.io/api v0.28.1 h1:lqY6oyv+YxZQvXP8vG0TfGDiMTX8ebQ8KgVQ2U9PApI=
+k8s.io/api v0.28.1/go.mod h1:el/5WKlzT79ldJHr5mJUMwvLn/ytQ6ff46Qm9k5Dx68=
+k8s.io/apimachinery v0.28.1 h1:bZ/tKM+3nk9HkODtEpoFSsU9jpKglcqDF8tZwBq9Yxg=
+k8s.io/apimachinery v0.28.1/go.mod h1:qrCqDEdZg8X1wMTz+Pu3rm5jy6y3aCyVbhpxmyJo/5c=
+k8s.io/client-go v0.28.1 h1:x3DUR8Ig46hvx0YqGRqYnAAZfO7a5Aq6W+qkHsMeZLk=
+k8s.io/client-go v0.28.1/go.mod h1:qrCqDEdZg8X1wMTz+Pu3rm5jy6y3aCyVbhpxmyJo/5c=
